@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\DavinciCodeServer\DavinciCodeServer\bin\Debug\DavinciCodeServer.exe.config
+C:\Users\user\source\repos\DavinciCodeServer\DavinciCodeServer\bin\Debug\DavinciCodeServer.exe
+C:\Users\user\source\repos\DavinciCodeServer\DavinciCodeServer\bin\Debug\DavinciCodeServer.pdb
+C:\Users\user\source\repos\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.exe
+C:\Users\user\source\repos\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.pdb
+C:\Users\user\Desktop\DavinciCodeServer\DavinciCodeServer\bin\Debug\DavinciCodeServer.exe.config
+C:\Users\user\Desktop\DavinciCodeServer\DavinciCodeServer\bin\Debug\DavinciCodeServer.exe
+C:\Users\user\Desktop\DavinciCodeServer\DavinciCodeServer\bin\Debug\DavinciCodeServer.pdb
+C:\Users\user\Desktop\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.exe
+C:\Users\user\Desktop\DavinciCodeServer\DavinciCodeServer\obj\Debug\DavinciCodeServer.pdb

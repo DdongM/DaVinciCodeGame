@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV._1.Properties.Resources.resources
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.exe.config
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.exe
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.pdb
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV._1.Form1.resources
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.exe
+C:\Users\user\source\repos\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.pdb
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.exe.config
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.exe
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.pdb
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV._1.Properties.Resources.resources
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.exe
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.pdb
+C:\Users\user\Desktop\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV._1.OpponentCardSlot.resources
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.exe.config
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.exe
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\bin\Debug\DavincicodeV.1.pdb
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.AssemblyReference.cache
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV._1.Properties.Resources.resources
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.GenerateResource.cache
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.csproj.CoreCompileInputs.cache
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.exe
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV.1.pdb
+C:\Users\pask5\Documents\카카오톡 받은 파일\DavincicodeV.1 (4)\DavincicodeV.1\DavincicodeV.1\obj\Debug\DavincicodeV._1.OpponentCardSlot.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavincicodeV.1", "DavincicodeV.1\DavincicodeV.1.csproj", "{558D1396-12AF-4EF9-83E3-9C6F963614CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558D1396-12AF-4EF9-83E3-9C6F963614CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558D1396-12AF-4EF9-83E3-9C6F963614CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558D1396-12AF-4EF9-83E3-9C6F963614CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558D1396-12AF-4EF9-83E3-9C6F963614CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBEA089E-9252-4BE4-A0A9-17732B828591}
+	EndGlobalSection
+EndGlobal
